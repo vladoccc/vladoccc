@@ -1,5 +1,6 @@
-## Hi there, I'm Vlad   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
+<div id="header" align="center">
+<h2> Hi there, I'm Vlad   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+</div>
 
 <h2>About me</h2>
 </p>
@@ -14,15 +15,14 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/vvladocc">
     <img src=https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge alt="Telegram Badge"/>
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-
-
-
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=vladoccc&style=flat-square&color=blue" alt=""/>
+</div>
 
 <!--
 **vladoccc/vladoccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
