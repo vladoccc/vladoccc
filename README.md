@@ -24,6 +24,16 @@
 <img src="https://komarev.com/ghpvc/?username=vladoccc&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
+
+### :fire: My Stats :
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladoccc&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladoccc&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladoccc&theme=github_dark" alt=""/>
+</div>
+
 <!--
 **vladoccc/vladoccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
