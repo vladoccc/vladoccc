@@ -32,6 +32,9 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladoccc&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladoccc&theme=github_dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladoccc&theme=github_dark" alt=""/>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladoccc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
